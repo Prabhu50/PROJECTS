@@ -32,7 +32,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prabhu50-7604dk88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhu50-7604dk88" height="30" width="40" /></a>
-<a href="https://kaggle.com/deepakloganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhumadhu" height="30" width="40" /></a>
+<a href="https://kaggle.com/prabhu madhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhumadhu" height="30" width="40" /></a>
 </p>
 
 
@@ -62,4 +62,4 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">My Activity Graph :</h3>
 
 
-[![Prabhu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Deepak-L-coder&bg_color=170210&color=f50fe6&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prabhu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabhu50&bg_color=170210&color=f50fe6&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
