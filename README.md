@@ -25,14 +25,14 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with deep learning frameworks.
 - 💬 Ask me about Data Analyst, especially using python and Machine Learning.
-- 📫 How to reach me: [Email](mailto:your-deepakuniverse@gmail.com)
+- 📫 How to reach me: [Email](mailto:your-prabhumass35@gmail.com)
 - 😄 Pronouns: He/His
 - 🤔 I’m looking for help with Placements
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak-l-7604dk88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-l-7604dk88" height="30" width="40" /></a>
-<a href="https://kaggle.com/deepakloganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepakloganathan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhu50-7604dk88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhu50-7604dk88" height="30" width="40" /></a>
+<a href="https://kaggle.com/deepakloganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhumadhu" height="30" width="40" /></a>
 </p>
 
 
@@ -44,7 +44,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">Profile Views :</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-l-coder&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-l-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhu50&label=Profile%20views&color=0e75b6&style=flat" alt="prabhu50" /> </p>
 
 
 <h3 align="left">GitHub Trophys :</h3>
@@ -56,7 +56,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 <h3 align="left">GitHub Stats :</h3>
 
 
-![Prabhu GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-L-coder&show_icons=true&theme=radical)
+![Prabhu GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhu50&show_icons=true&theme=radical)
 
 
 <h3 align="left">My Activity Graph :</h3>
