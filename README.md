@@ -32,7 +32,7 @@ Skilled in data cleaning, analysis, and creating insightful dashboards to suppor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabhu50-7604dk88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhu50-7604dk88" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/prabhu-madhu-317609277" target="blank"><img align="center" src="https://github.com/Prabhu50/PROJECTS" alt="prabhu50-7604dk88" height="30" width="40" /></a>
 <a href="https://kaggle.com/prabhu madhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhumadhu" height="30" width="40" /></a>
 </p>
 
